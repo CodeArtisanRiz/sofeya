@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.Dh6celcD.mjs";import{K as t,M as n}from"./framer.DfeSQ16C.mjs";var r,i,a,o=e((()=>{t(),n.loadFonts([]),r=[{explicitInter:!0,fonts:[]}],i=[`.framer-N6kw9 .framer-styles-preset-1fuxuql:not(.rich-text-wrapper), .framer-N6kw9 .framer-styles-preset-1fuxuql.rich-text-wrapper a {  }`],a=`framer-N6kw9`}));export{o as i,i as n,r,a as t};
+//# sourceMappingURL=BIiqile6p.B9Qdwxuv.mjs.map
